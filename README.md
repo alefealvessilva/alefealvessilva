@@ -1,10 +1,10 @@
 ## Olá!, eu sou a Álefe Alves, Analista de Dados e Desenvolvedor Full Stack!
 
 <a href="https://github.com/alefealvessilva/">
-  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefealvessilva&show_icons=true&theme=dark" />
+  <img width=325 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefealvessilva&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/alefealvessilva/">
-  <img width=450 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealvessilva&layout=compact&show_icons=true&theme=dark"/>
+  <img width=350 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealvessilva&layout=compact&show_icons=true&theme=dark"/>
 </a>
 
 <div style="display: inline_block"><br>
