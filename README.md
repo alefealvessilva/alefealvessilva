@@ -1,4 +1,4 @@
-## Olá!, eu sou a Álefe Alves, Analista de Dados e Desenvolvedor Full Stack!
+## Olá!, eu sou o Álefe Alves, Analista de Dados e Desenvolvedor Full Stack!
 
 <a href="https://github.com/alefealvessilva/">
   <img width=325 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefealvessilva&show_icons=true&theme=dark" />
