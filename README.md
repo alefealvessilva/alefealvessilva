@@ -1,66 +1,86 @@
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Alefe%20Alves%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=58&descSize=16&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/alefealvessilva">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Senior+Performance+Analyst+%F0%9F%93%8A;Flutter+Lover+%F0%9F%92%99;Supabase+%2B+Vercel+no+dia+a+dia+%E2%9A%A1;Power+Platform+%26+SharePoint+%F0%9F%A7%A9;Construindo+com+IA+(Claude)+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alefealvessilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alefeasc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alefealvessilva&style=for-the-badge&color=2c5364&label=VISITAS" />
+</p>
+
+---
+
 ## 🚀 Sobre Mim
 
-Sou um entusiasta da tecnologia que transita entre a **análise estratégica de dados** e a **construção de interfaces fluidas**. Atualmente, foco em arquitetar soluções escaláveis que unem performance e experiência do usuário.
+Sou um entusiasta da tecnologia que transita entre a **análise estratégica de dados** e a **construção de interfaces fluidas**. Hoje foco em arquitetar soluções escaláveis — do banco ao deploy — que unem performance, automação e experiência do usuário.
 
-- 💼 **Senior Performance Analyst** | Transformando dados em decisões desde 2023.
-- 💙 **Flutter Lover** | Especialista em criar apps cross-platform de alta fidelidade (meu xodó!).
-- 🎓 **Data Science** | Graduando (2025) com foco em tornar modelos complexos em realidade.
-- 🐍 **Python Path** | Construindo as bases para futuros projetos de Data Engineering e ML.
-- ⚙️ **Explorando** | NLP, Computer Vision e Ecossistemas de Big Data.
+```yaml
+role:       Senior Performance Analyst   # transformando dados em decisões desde 2023
+mobile:     Flutter & Dart               # meu xodó 💙
+backend:    Supabase · PostgreSQL · Node.js · Python
+cloud:      Vercel · GitHub Actions
+low_code:   Power Apps · SharePoint · Power BI
+ai:         Claude · Claude Code · MCP
+education:  Data Science (2025)
+exploring:  [NLP, Computer Vision, Data Engineering, Big Data]
+```
 
-<br>
+---
 
-<div align="center">
-  <h3>📊 Atividade & Performance</h3>
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=alefealvessilva&theme=dark&hide_border=true&background=0d1117" />
-</div>
+## 🛠️ Stack Atual
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>📱 Mobile & Front</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend & Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,python&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel,github,githubactions,git&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Design & API</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,postman,vscode&perline=8" /></td>
+  </tr>
+</table>
 
-<div align="center">
-  <h3>🛠️ Minha Stack Tecnológica</h3>
-  <br>
-  
-  <table>
-    <tr>
-      <td align="center"><b>Mobile & Frontend</b></td>
-      <td align="center"><b>Backend & DB</b></td>
-      <td align="center"><b>Data & Design</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-        <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-        <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      </td>
-      <td>
-        <img alt="Node" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-        <img alt="Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-        <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      </td>
-      <td>
-        <img alt="PowerBI" height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-        <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <h3>📫 Vamos conversar?</h3>
-  <a href="mailto:alefeasc@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/alefealvessilva">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 📊 Atividade & Performance
 
-<br>
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=alefealvessilva&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alefealvessilva&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frase do dia" />
-</div>
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+</p>
